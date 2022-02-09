@@ -5,4 +5,4 @@ A website for linking socials. At the moment, you cannot add your own social pag
 * Google Fonts (For the site fonts)
 
 ## Site
-https://rossolinks.netlify.app
+https://rosso-links.xyz
